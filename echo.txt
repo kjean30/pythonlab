@@ -1,1 +1,4 @@
 learning py with github repo
+had issues with add remote repo
+first init repo; then created Master branch after making files
+then push to Master branch; branch names are case sensitive
